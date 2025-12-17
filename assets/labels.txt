@@ -1,0 +1,10 @@
+0 Spotify
+1 Facebook
+2 Instagram
+3 X
+4 Shopee
+5 Lazada
+6 Youtube
+7 Tik-tok
+8 G-cash
+9 Snapchat
