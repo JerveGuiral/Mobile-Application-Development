@@ -2,6 +2,7 @@
 My App is a specialized mobile application built with Flutter that utilizes Machine Learning to identify popular social media and e-commerce logos in real-time. By leveraging a custom-trained TensorFlow Lite model, the app provides instant brand recognition directly on your smartphone.
 
 📖 Table of Contents
+
 ✨ About the Project
 
 📦 Supported Brands
