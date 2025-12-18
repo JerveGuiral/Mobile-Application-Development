@@ -1,5 +1,5 @@
 🎯 Final Flutter Project: App Logo Classifier
-LogoVision is a specialized mobile application built with Flutter that utilizes Machine Learning to identify popular social media and e-commerce logos in real-time. By leveraging a custom-trained TensorFlow Lite model, the app provides instant brand recognition directly on your smartphone.
+My App is a specialized mobile application built with Flutter that utilizes Machine Learning to identify popular social media and e-commerce logos in real-time. By leveraging a custom-trained TensorFlow Lite model, the app provides instant brand recognition directly on your smartphone.
 
 📖 Table of Contents
 ✨ About the Project
@@ -23,7 +23,7 @@ The model is currently trained to recognize the following 10 classes:
 🎨 Clean UI: A minimalist interface focused on user experience.
 
 ## 📺 Video Demo
-Check out **LogoVision** in action! See how it classifies the 10 different app categories with high accuracy.
+Check out My App in action! See how my app classifies the different app categories with high accuracy.
 [![Watch the video](https://markdown-videos-api.jorgenkh.no/youtube/NRShV7QvLiA)](https://www.youtube.com/watch?v=NRShV7QvLiA)
 
 🧠 How it Works
